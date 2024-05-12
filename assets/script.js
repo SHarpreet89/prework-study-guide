@@ -26,7 +26,3 @@ listTopics();
 console.log('Which topic should we study first?');
 selectTopic();
 
-<ul>    
-    <li>A variable is a named container that allows us to store data in our code.</li>
-    <li>Control flow is the order in which a computer executes code in a script.</li>
-</ul>
